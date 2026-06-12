@@ -1,0 +1,1 @@
+{"name":"swaroop-portfolio","version":"3.0.0","description":"Jyothi Swaroop Ganapavarapu — AI Engineer Portfolio","scripts":{"dev":"npx serve .","build":"echo Static site"}}
